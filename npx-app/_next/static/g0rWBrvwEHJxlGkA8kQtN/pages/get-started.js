@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{Enfu:function(n,t,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/get-started",function(){var n=w("kIQt");return{page:n.default||n}}])},kIQt:function(n,t){}},[["Enfu",0]]]);
